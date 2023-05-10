@@ -19,9 +19,6 @@ Hi There 👋<br><br>I'm Samet <br><br>Back-End Developer 🧑‍💻<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samettuzuner&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samettuzuner&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samettuzuner&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=samettuzuner&icon=0&color=6)](https://visitcount.itsvg.in)
 
